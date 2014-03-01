@@ -32,5 +32,6 @@ cinst android-sdk &^
 cinst tortoisesvn &^
 cinst daemontoolslite &^
 cinst swish &^
+cinst syncback &^
 
 wget http://www.python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi
